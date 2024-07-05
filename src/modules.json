@@ -1,0 +1,132 @@
+[
+    {
+        "name" : "Sequencing",
+        "description" : "When running a piece of code, sequencing is when the code is executed line-by-line in order of top to bottom.",
+        "image" : "sequencing.PNG"
+    },
+    {
+        "name" : "Iteration",
+        "description" : "Iterations occurs during a For or While loop; this is when the same block of code is repeated and increments in some fashion until a particular condition is met.",
+        "image" : "iteration.PNG"
+    },
+    {
+        "name" : "Selection",
+        "description" : "Selection occurs during an If Statement. The program will come across a selection of requirements, whether or not it meets them will decide which piece of code it selects to execute.",
+        "image" : "selection.PNG"
+    },
+    {
+        "name" : "Functions",
+        "description" : "A Function is a block of code that, when called, will execute a specific task or set of tasks. Functions are named based on the purpose they serve.",
+        "image" : "function.PNG"
+    },
+    {
+        "name" : "Variables",
+        "description" : "A Variable is a named piece of code that is assigned a value.",
+        "image" : "variable.PNG"
+    },
+    {
+        "name" : "HTML",
+        "description" : "Hyper Text Mark-up Language. This is a programming language used for creating the basic skeleton of a webpage.",
+        "image" : ""
+    },
+    {
+        "name" : "CSS",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "JavaScript",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "TypeScript",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "Integer",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "String",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "Boolean",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "For Loop",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "While Loop",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "Try Catch",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "Throwing Errors",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "If Statements",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "React.js",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "JSON",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "JSX",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "TSX",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "GitHub",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "Visual Studio Code",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "CMD",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "UI/UX",
+        "description" : "",
+        "image" : ""
+    },
+    {
+        "name" : "Node.js",
+        "description" : "",
+        "image" : ""
+    }
+]

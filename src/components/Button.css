@@ -1,0 +1,21 @@
+#side-button {
+    background-color: rgb(31, 0, 47);
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vh;
+    color: white;
+    transition: 0.35s;
+}
+
+#side-button:hover {
+    background-color: rgb(178, 115, 197);
+    color: black;
+    cursor: pointer;
+}
+
+.selected {
+    background-color: rgb(178, 115, 197);
+    color: black;
+}
